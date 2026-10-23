@@ -1,0 +1,6 @@
+{
+  "name": "GuideConnect - Multilingual Tourist-Guide Platform",
+  "description": "Smart matching, single-winner atomic booking, and price bargaining platform connecting international tourists with verified multilingual local guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
